@@ -1,0 +1,23 @@
+\section{Requerimientos Funcionales}
+En base a la problemática que se ha planteado, se realiza una lista de los requerimientos funcionales del SAET, para una mejor identificación de dichos requerimientos se emplea una nomenclatura especial: \textbf{RF'X'}, siendo \textbf{'X'} el número de identificación del requerimiento. 
+\begin{itemize}
+	\item \textbf{RF1:} El SAET dará acceso solo si se ingresan correctamente las credenciales solicitadas (nombre de usuario y contraseña), esto por medio de una interfaz gráfica.
+	\item \textbf{RF2:} El SAET manejará dos tipos de roles del usuario: operador y administrador, cada uno de estos tendrá acceso a diferentes opciones de acuerdo al rol que pertenezca.
+	\item \textbf{RF3:} El SAET permitirá al administrador y operador visualizar la información de los siguientes token's: 
+		\subitem Medio de Acceso.
+		\subitem Código de Respuesta.
+		\subitem Entry Mode
+		\subitem Token C4
+		\subitem Token C0
+		\subitem Token B3
+		\subitem Token B4
+		\subitem Token B2
+	\\ \\
+	Mostrando una pantalla por cada uno de estos token's, en las cuales se pueda visualizar toda la información proveniente del backend.
+	\item  \textbf{RF4:} El SAET permitirá al administrador, gestionar a los usuarios que puedan acceder al sistema, es decir, podrán visualizar a todos los usuarios que ya se encuentren registrados en la base de datos, registrar un nuevo usuario y además actualizar o eliminar el registro de uno o varios usuarios existentes.
+	\item  \textbf{RF5:} El SAET deberá validar toda la información solicitada en algún formulario, en caso de ser errónea, el sistema mostrará un mensaje de alerta. 
+	\item \textbf{RF6:} El SAET deberá proporcionar la interacción necesaria (filtros, gráficas y tablas) para que el usuario obtenga la información que desea en ese momento. 
+	\item \textbf{RF7:} El SAET permitirá en cada uno de los filtros, elegir diversos valores al mismo tiempo, los cuales deberán funcionar para cada una de las visualizaciones en todos los token's.
+	\item  \textbf{RF8:} El SAET deberá validar todos los datos de los campos obtenidos por medio del 'backend' con la conexión a el modelo - base de datos. Esta validación se hará dependiendo principalmente de los siguientes token's: Medio de Acceso, Código de Respuesta y Entry Mode así como de los filtros que el usuario haya elegido.
+	\item \textbf{RF9:} El SAET permitirá al usuairo cerrar sesión para mantener la seguridad e integridad de su cuenta.
+\end{itemize} 

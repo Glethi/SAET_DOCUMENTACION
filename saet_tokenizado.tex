@@ -1,0 +1,25 @@
+\documentclass[letterpaper,11pt]{report} 
+\usepackage[utf8]{inputenc} %Caracteres: UTF8
+\usepackage[spanish]{babel} %Lenguaje: Espanol
+\usepackage{hyperref}
+\usepackage{graphicx}%Manejo de imagenes
+\usepackage{appendix}%Manejo de apendices (anexos)
+\usepackage{pdflscape}%anejo de páginas horizonrales
+
+\begin{document}
+	\renewcommand{\tablename}{Tabla}
+	\renewcommand{\listtablename}{Índice de tablas}
+	\input{portada} %Se inserta portada
+	\input{resumen} %Se inserta resumen
+	\pagestyle{headings}
+	
+	\tableofcontents %Tabla de contenidos
+	\listoffigures %Tabla de imagenes
+	\listoftables%Lista de tablas
+	\clearpage %Acomodar por página
+	%Contenido
+	\input{./introduccion/introduccion}
+	\input{./analisis/analisis}
+	
+	
+\end{document}
