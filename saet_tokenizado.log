@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.7)  31 MAY 2022 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.7)  1 JUN 2022 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,7 +293,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 (./portada.tex
-<imagenes/pyjc.png, id=108, 1929.2075pt x 1529.715pt>
+<imagenes/pyjc.png, id=116, 1929.2075pt x 1529.715pt>
 File: imagenes/pyjc.png Graphic file (type png)
 <use imagenes/pyjc.png>
 Package pdftex.def Info: imagenes/pyjc.png  used on input line 4.
@@ -457,68 +457,73 @@ LaTeX Info: Redefining \% on input line 4.
 [10
 
 ]) (./analisis/historiasUsuario/hu2/hu2.tex)
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
  [11]
 (./analisis/historiasUsuario/hu3/hu3.tex)
 (./analisis/historiasUsuario/hu4/hu4.tex)
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
  [12
 
 ]
 (./analisis/historiasUsuario/hu5/hu5.tex)
 (./analisis/historiasUsuario/hu6/hu6.tex)
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
  [13
 
 ]
 (./analisis/historiasUsuario/hu7/hu7.tex)
 (./analisis/historiasUsuario/hu8/hu8.tex)
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
  [14
 
 ]
 (./analisis/historiasUsuario/hu9/hu9.tex)
 (./analisis/historiasUsuario/hu10/hu10.tex)
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [15
 
 ]
 (./analisis/historiasUsuario/hu11/hu11.tex)
 (./analisis/historiasUsuario/hu12/hu12.tex)
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
  [16
 
 ]
 (./analisis/historiasUsuario/hu13/hu13.tex)
 (./analisis/historiasUsuario/hu14/hu14.tex)
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
  [17
 
-]) (./analisis/tecnologias.tex
-(./analisis/tecnologias/react.tex)))
+]
+(./analisis/historiasUsuario/hu15/hu15.tex)
+(./analisis/historiasUsuario/hu16/hu16.tex)) (./analisis/tecnologias.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+
+[18
+
+] (./analisis/tecnologias/react.tex)))
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- [18
-
-] (./saet_tokenizado.aux
+ [19] (./saet_tokenizado.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `saet_tokenizado.out' has not changed.
-(rerunfilecheck)             Checksum: E57FF51AC1C1E90DB1BF23C1F563FA7D;4225.
+(rerunfilecheck)             Checksum: 7AE3665E6347932FF5DBE4590FC8E1B7;4619.
  ) 
 Here is how much of TeX's memory you used:
- 9932 strings out of 478268
- 160649 string characters out of 5850340
+ 9951 strings out of 478268
+ 161252 string characters out of 5850340
  461698 words of memory out of 5000000
- 27878 multiletter control sequences out of 15000+600000
+ 27886 multiletter control sequences out of 15000+600000
  476393 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,63p,959b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -528,10 +533,10 @@ live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022
 st/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsl10.pfb>
-Output written on saet_tokenizado.pdf (20 pages, 2481910 bytes).
+Output written on saet_tokenizado.pdf (21 pages, 2483136 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 230 words of extra memory for PDF output out of 10000 (max. 10000000)
 

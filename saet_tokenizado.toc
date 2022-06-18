@@ -19,9 +19,11 @@
 \contentsline {subsection}{\numberline {2.3.8}HU8: Visualizar Token B3}{14}{subsection.2.3.8}%
 \contentsline {subsection}{\numberline {2.3.9}HU9: Visualizar Token B4}{15}{subsection.2.3.9}%
 \contentsline {subsection}{\numberline {2.3.10}HU10: Visualizar Token B2}{15}{subsection.2.3.10}%
-\contentsline {subsection}{\numberline {2.3.11}HU11: Visualizar Usuarios}{16}{subsection.2.3.11}%
-\contentsline {subsection}{\numberline {2.3.12}HU12: Agregar Usuario}{16}{subsection.2.3.12}%
-\contentsline {subsection}{\numberline {2.3.13}HU13: Eliminar Usuario}{17}{subsection.2.3.13}%
-\contentsline {subsection}{\numberline {2.3.14}HU14: Modificar Usuario}{17}{subsection.2.3.14}%
-\contentsline {section}{\numberline {2.4}Tecnologías}{18}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}React JS}{18}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.3.11}HU11: Visualizar Token B5}{16}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}HU12: Visualizar Token B6}{16}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}HU13: Visualizar Usuarios}{17}{subsection.2.3.13}%
+\contentsline {subsection}{\numberline {2.3.14}HU14: Agregar Usuario}{17}{subsection.2.3.14}%
+\contentsline {subsection}{\numberline {2.3.15}HU15: Eliminar Usuario}{18}{subsection.2.3.15}%
+\contentsline {subsection}{\numberline {2.3.16}HU16: Modificar Usuario}{18}{subsection.2.3.16}%
+\contentsline {section}{\numberline {2.4}Tecnologías}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}React JS}{19}{subsection.2.4.1}%
